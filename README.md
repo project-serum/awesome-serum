@@ -34,7 +34,6 @@ Please submit a pull request if you know any resources that might be helpful to 
 ### Serum
 
 - [RFC for node/staking code](https://github.com/project-serum/rfcs/blob/master/text/0001-registry.md) - Work in progress
-- [SolFlare](https://projectserum.com/solflare.com), and a [guide](https://docs.solana.com/wallet-guide/ledger-live) on how to use a hardware Ledger with it.
 
 ## Wallets
 
@@ -115,6 +114,8 @@ Most of these projects are not open source. Use at your own risk.
 - [Bonfida Wallet](https://bonfida.com/wallet)
   - [Github](https://github.com/dr497/spl-token-wallet)
 - [Math Wallet](https://mathwallet.org)
+- [SolFlare](https://solflare.com)
+  - [Guide](https://docs.solana.com/wallet-guide/ledger-live) on how to use a hardware Ledger with it.
 
 ### Mobile Wallets
 
