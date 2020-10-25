@@ -62,8 +62,6 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
 - [Serum Academy](https://serum-academy.com)
 - [Messaging App](https://github.com/kemargrant/soltalk) - Proof of Concept
 - [AMM](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) - Work-in-progress
-- [SAMM](https://gitlab.com/OpinionatedGeek/samm)
-  - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0003-samm.md)
 - On-chain Pools:
   - [A general preview](https://docs.google.com/document/d/1lmMZRKkxMFOtGOEZOFEKYL7syqv-4QT87F0o55fc35Y/edit)
   - [Work in progress code](https://github.com/project-serum/serum-dex/tree/pool-wip/pool)
@@ -126,6 +124,11 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Cryptocurrencies.ai](https://dex.cryptocurrencies.ai/rewards)
 - [YMAX](https://ymax.finance/)
+
+### AMM
+
+- [SAMM](https://gitlab.com/OpinionatedGeek/samm)
+  - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0003-samm.md)
 
 ## Popular Token Contracts
 
