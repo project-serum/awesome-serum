@@ -80,7 +80,7 @@ Most of these projects are not open source. Use at your own risk.
 ### Web GUIs
 
 - [Bonfida Serum DEX](https://bonfida.com/dex)
-  - [GUI](https://github.com/dr497/serum-dex-ui)
+  - [Github](https://github.com/dr497/serum-dex-ui)
 - [Cryptocurrencies.Ai DEX](https://dex.cryptocurrencies.ai/)
 - [Serum Today](https://serum.today)
 - [Serum Pro](https://serumpro.org)
