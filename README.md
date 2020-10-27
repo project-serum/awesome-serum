@@ -132,6 +132,8 @@ Most of these projects are not open source. Use at your own risk.
 
 - [SAMM](https://gitlab.com/OpinionatedGeek/samm)
   - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0003-samm.md)
+- [Swap](https://swap.projectserum.com/)
+  - [code](https://github.com/project-serum/oyster-swap)
 
 ## Popular Token Contracts
 
