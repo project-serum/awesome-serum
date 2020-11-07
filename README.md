@@ -72,6 +72,8 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
   - [Wallet](https://github.com/dr497/spl-token-wallet)
 - [Social Networks](https://github.com/project-serum/rfcs/pull/6)
   - [Messaging Backbone](https://github.com/project-serum/messaging-backbone-v1)
+- [SPL Token Creator UI](https://spl-token-ui.netlify.app/#/)
+
 
 ## Projects in Production
 
