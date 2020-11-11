@@ -31,6 +31,7 @@ Please submit a pull request if you know any resources that might be helpful to 
   - [Medium article](https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7)
 - [NFT example](https://spl.solana.com/token#example-create-a-non-fungible-token)
 - [Run a Solana Validator Cluster](https://github.com/project-serum/validators)
+- [Solana Go](https://github.com/dfuse-io/solana-go)
 
 ### Serum
 
