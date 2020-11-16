@@ -1,0 +1,11 @@
+{
+  "name": "@project-serum/awesome-serum",
+  "version": "1.0.1",
+  "description": "Project Serum applications",
+  "main": "index.js",
+  "repository": "git@github.com:project-serum/awesome-serum.git",
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  }
+}
