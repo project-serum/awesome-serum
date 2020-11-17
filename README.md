@@ -35,8 +35,14 @@ Please submit a pull request if you know any resources that might be helpful to 
 
 ### Serum
 
-- [RFC for node/staking code](https://github.com/project-serum/rfcs/blob/master/text/0001-registry.md) - Work in progress
-
+- Staking
+  - [Node Registry Program](https://github.com/project-serum/serum-dex/tree/armani/stake/registry)
+  - [Node Registry Client](https://github.com/project-serum/serum-ts/tree/master/packages/registry)
+  - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0001-registry.md) - Work in progress
+- Lockup
+  - [Lockup Program](https://github.com/project-serum/serum-dex/tree/armani/stake/lockup)
+  - [Lockup Client](https://github.com/project-serum/serum-ts/tree/master/packages/lockup)
+  - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0002-onchain-lockups.md)
 ## Wallets
 
 - SPL Token Wallet:
