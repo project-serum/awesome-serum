@@ -464,5 +464,19 @@
     "description": "Documentation of the Bonfida API",
     "icon": "",
     "tags": ["bonfida", "api", "data", "documentation"]
+  },
+  {
+    "name": "SPL Manager",
+    "url": "http://splmanager.com/",
+    "description": "SPL token manager",
+    "icon": "",
+    "tags": ["spl", "token", "manager", "mint"]
+  },
+  {
+    "name": "Solong Wallet",
+    "url": "https://solongwallet.com",
+    "description": "Solong SPL Wallet",
+    "icon": "",
+    "tags": ["spl", "wallet", "mint"]
   }
 ]
