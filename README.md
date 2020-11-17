@@ -43,6 +43,7 @@ Please submit a pull request if you know any resources that might be helpful to 
   - [Lockup Program](https://github.com/project-serum/serum-dex/tree/armani/stake/lockup)
   - [Lockup Client](https://github.com/project-serum/serum-ts/tree/master/packages/lockup)
   - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0002-onchain-lockups.md)
+
 ## Wallets
 
 - SPL Token Wallet:
@@ -120,20 +121,28 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Solible](https://solible.com)
 
-### Web Wallets
+### Wallets
 
-- [Sollet.io](https://sollet.io)
-  - [Github](https://github.com/project-serum/spl-token-wallet)
+#### Web
+
+- [Sollet.io](https://sollet.io/)
+  - [Sollet - Github](https://github.com/serum-foundation/spl-token-wallet)
+  - [SOL Wallet Adapter](https://github.com/project-serum/sol-wallet-adapter), a library to allow Solana dApps to use third-party wallets to sign transactions.
 - [Bonfida Wallet](https://bonfida.com/wallet)
-  - [Github](https://github.com/dr497/spl-token-wallet)
-- [Math Wallet](https://mathwallet.org)
-- [SolFlare](https://solflare.com)
-  - [Guide](https://docs.solana.com/wallet-guide/ledger-live) on how to use a hardware Ledger with it.
+- [Solflare](https://solflare.com)
 
-### Mobile Wallets
+#### Mobile App
 
-- [Math Wallet](https://mathwallet.org)
 - [Coin98](https://coin98.app)
+- [Math Wallet](https://mathwallet.org)
+
+#### Browser Extensions
+
+- [Coin98](https://twitter.com/coin98_wallet/status/1326712294571532289)
+- [Solong Wallet](http://solongwallet.com/)
+  - [Chrome Extension](https://chrome.google.com/webstore/detail/solong/memijejgibaodndkimcclfapfladdchj?hl=en-US)
+  - [Tutorial](https://solongwallet.medium.com/starting-with-solong-88a7a54524e5)
+  - [Integration Instruction](https://solongwallet.medium.com/using-solong-in-serum-swap-a01f8d075192)
 
 ### Yield Farms
 
