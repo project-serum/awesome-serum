@@ -81,7 +81,8 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
   - [Messaging Backbone](https://github.com/project-serum/messaging-backbone-v1)
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Token Minter](https://bonfida.com/mint)
-
+- [Solong Minter](https://twitter.com/Solongwallet/status/1328520460456189952)
+- [SPL Manager](http://splmanager.com/)
 
 ## Projects in Production
 
