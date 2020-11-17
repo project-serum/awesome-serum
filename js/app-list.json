@@ -477,6 +477,6 @@
     "url": "https://solongwallet.com",
     "description": "Solong SPL Wallet",
     "icon": "",
-    "tags": ["spl", "wallet", "mint"]
+    "tags": ["spl", "wallet", "mint", "solong"]
   }
 ]
