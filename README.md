@@ -43,6 +43,11 @@ Please submit a pull request if you know any resources that might be helpful to 
   - [Lockup Program](https://github.com/project-serum/serum-dex/tree/armani/stake/lockup)
   - [Lockup Client](https://github.com/project-serum/serum-ts/tree/master/packages/lockup)
   - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0002-onchain-lockups.md)
+  
+### RPC servers
+
+- Solana: [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
+- Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
 
 ## Wallets
 
