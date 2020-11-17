@@ -46,8 +46,10 @@ Please submit a pull request if you know any resources that might be helpful to 
   
 ### RPC servers
 
-- Solana: [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
-- Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
+- Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com) (**recommended**)
+- Solana: [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com) (**can be unstable**)
+
+You can build your own RPC server using this [guide](https://github.com/project-serum/validators) as a reference.
 
 ## Wallets
 
