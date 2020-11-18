@@ -142,6 +142,7 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Coin98](https://coin98.app)
 - [Math Wallet](https://mathwallet.org)
+- [ezDeFi Mobile. Syncing enabled](https://ezdefi.com/products/walletapp/)
 
 #### Browser Extensions
 
@@ -150,6 +151,11 @@ Most of these projects are not open source. Use at your own risk.
   - [Chrome Extension](https://chrome.google.com/webstore/detail/solong/memijejgibaodndkimcclfapfladdchj?hl=en-US)
   - [Tutorial](https://solongwallet.medium.com/starting-with-solong-88a7a54524e5)
   - [Integration Instruction](https://solongwallet.medium.com/using-solong-in-serum-swap-a01f8d075192)
+- [ezDeFi Browser Extension. Syncing enabled](https://chrome.google.com/webstore/detail/ezdefi/ejeemacpidnaejkhpbmfkadhgjhnolaa)
+
+### Payment Gateway
+
+- [ezDeFi Payment Gateway](https://ezdefi.com/products/payment-gateway/)
 
 ### Yield Farms
 
