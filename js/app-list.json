@@ -478,5 +478,12 @@
     "description": "Solong SPL Wallet",
     "icon": "",
     "tags": ["spl", "wallet", "mint", "solong"]
+  },
+  {
+    "name": "ezDeFi",
+    "url": "https://ezdefi.com",
+    "description": "",
+    "icon": "",
+    "tags": ["spl", "token", "mobile", "wallet", "ezdefi"]
   }
 ]
