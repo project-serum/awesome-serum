@@ -142,7 +142,7 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Coin98](https://coin98.app)
 - [Math Wallet](https://mathwallet.org)
-- [ezDeFi Mobile. Syncing enabled](https://ezdefi.com/products/walletapp/)
+- [ezDeFi](https://ezdefi.com/products/walletapp/)
 
 #### Browser Extensions
 
