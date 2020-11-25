@@ -43,7 +43,7 @@ Please submit a pull request if you know any resources that might be helpful to 
   - [Lockup Program](https://github.com/project-serum/serum-dex/tree/armani/stake/lockup)
   - [Lockup Client](https://github.com/project-serum/serum-ts/tree/master/packages/lockup)
   - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0002-onchain-lockups.md)
-  
+
 ### RPC servers
 
 - Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com) (**recommended**)
@@ -151,11 +151,7 @@ Most of these projects are not open source. Use at your own risk.
   - [Chrome Extension](https://chrome.google.com/webstore/detail/solong/memijejgibaodndkimcclfapfladdchj?hl=en-US)
   - [Tutorial](https://solongwallet.medium.com/starting-with-solong-88a7a54524e5)
   - [Integration Instruction](https://solongwallet.medium.com/using-solong-in-serum-swap-a01f8d075192)
-- [ezDeFi Browser Extension. Syncing enabled](https://chrome.google.com/webstore/detail/ezdefi/ejeemacpidnaejkhpbmfkadhgjhnolaa)
-
-### Payment Gateway
-
-- [ezDeFi Payment Gateway](https://ezdefi.com/products/payment-gateway/)
+- [ezDeFi](https://chrome.google.com/webstore/detail/ezdefi/ejeemacpidnaejkhpbmfkadhgjhnolaa)
 
 ### Yield Farms
 
