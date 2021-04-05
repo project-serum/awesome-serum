@@ -115,6 +115,7 @@ Most of these projects are not open source. Use at your own risk.
 - [TradeOnSerum DEX](https://www.tradeonserum.com/)
 - [YMAX DEX](https://ymax.finance/)
 - [SRMSwap](https://srmswap.com/) （中文版）
+- [Soleon DEX](https://soleon.io/)
 
 ### Mobile GUIs
 
