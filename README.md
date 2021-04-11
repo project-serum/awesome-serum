@@ -98,7 +98,6 @@ Most of these projects are not open source. Use at your own risk.
   - [Github](https://github.com/dr497/serum-dex-ui)
 - [Cryptocurrencies.Ai DEX](https://dex.cryptocurrencies.ai/)
 - [Serum Today](https://serum.today)
-- [Serum Pro](https://serumpro.org)
 - [Serum Folkvang.io](https://serum-mirror.folkvang.io/)
 - [Project Serum DEX](https://dex.projectserum.com)
 - [SerumStake DEX](https://dex.serumstakers.com)
