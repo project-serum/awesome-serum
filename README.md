@@ -33,17 +33,13 @@ Please submit a pull request if you know any resources that might be helpful to 
 - [Run a Solana Validator Cluster](https://github.com/project-serum/validators)
 - [Solana Go](https://github.com/dfuse-io/solana-go)
 - [Solana Python](https://github.com/michaelhly/solana-py)
+- [Progamming on Solana - An introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
+- [Solana Framework](https://github.com/project-serum/anchor)
 
 ### Serum
 
-- Staking
-  - [Node Registry Program](https://github.com/project-serum/serum-dex/tree/armani/stake/registry)
-  - [Node Registry Client](https://github.com/project-serum/serum-ts/tree/master/packages/registry)
-  - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0001-registry.md) - Work in progress
-- Lockup
-  - [Lockup Program](https://github.com/project-serum/serum-dex/tree/armani/stake/lockup)
-  - [Lockup Client](https://github.com/project-serum/serum-ts/tree/master/packages/lockup)
-  - [RFC](https://github.com/project-serum/rfcs/blob/master/text/0002-onchain-lockups.md)
+- [Staking Program](https://github.com/project-serum/anchor/tree/master/examples/lockup/programs/registry)
+- [Lockup Program](https://github.com/project-serum/anchor/tree/master/examples/lockup/programs/lockup)
 
 ### RPC servers
 
@@ -103,7 +99,6 @@ Most of these projects are not open source. Use at your own risk.
   - [Github](https://github.com/dr497/serum-dex-ui)
 - [Cryptocurrencies.Ai DEX](https://dex.cryptocurrencies.ai/)
 - [Serum Today](https://serum.today)
-- [Serum Pro](https://serumpro.org)
 - [Serum Folkvang.io](https://serum-mirror.folkvang.io/)
 - [Project Serum DEX](https://dex.projectserum.com)
 - [SerumStake DEX](https://dex.serumstakers.com)
@@ -120,6 +115,7 @@ Most of these projects are not open source. Use at your own risk.
 - [TradeOnSerum DEX](https://www.tradeonserum.com/)
 - [YMAX DEX](https://ymax.finance/)
 - [SRMSwap](https://srmswap.com/) （中文版）
+- [Soleon DEX](https://soleon.io/)
 
 ### Mobile GUIs
 
