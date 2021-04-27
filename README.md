@@ -32,6 +32,7 @@ Please submit a pull request if you know any resources that might be helpful to 
 - [NFT example](https://spl.solana.com/token#example-create-a-non-fungible-token)
 - [Run a Solana Validator Cluster](https://github.com/project-serum/validators)
 - [Solana Go](https://github.com/dfuse-io/solana-go)
+- [Solana Python](https://github.com/michaelhly/solana-py)
 - [Progamming on Solana - An introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
 - [Solana Framework](https://github.com/project-serum/anchor)
 
