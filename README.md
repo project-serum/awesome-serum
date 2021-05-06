@@ -82,6 +82,7 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
   - [REST API](https://bonfida.com/blog/articles/serum-api) to get Serum market data
   - [GUI](https://github.com/dr497/serum-dex-ui)
   - [Wallet](https://github.com/dr497/spl-token-wallet)
+- [Serum Vial](https://github.com/tardis-dev/serum-vial) -  real-time WebSocket market data API for Serum
 - [Social Networks](https://github.com/project-serum/rfcs/pull/6)
   - [Messaging Backbone](https://github.com/project-serum/messaging-backbone-v1)
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
