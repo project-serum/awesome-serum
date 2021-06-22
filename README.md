@@ -34,7 +34,9 @@ Please submit a pull request if you know any resources that might be helpful to 
 - [Solana Go](https://github.com/dfuse-io/solana-go)
 - [Solana Python](https://github.com/michaelhly/solana-py)
 - [SolanaJ (Java)](https://github.com/skynetcapital/solanaj)
+- [SolanaJ-Programs (Java)](https://github.com/skynetcapital/solanaj-programs)
 - [Solnet (C#/.NET)](https://github.com/bmresearch/Solnet)
+- [Solnet.Serum (C#/.NET)](https://github.com/bmresearch/Solnet.Serum)
 - [Progamming on Solana - An introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
 - [Solana Framework](https://github.com/project-serum/anchor)
 
