@@ -4,7 +4,7 @@
 
 # Awesome Serum [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![npm (scoped)](https://img.shields.io/npm/v/@project-serum/awesome-serum)](https://www.npmjs.com/package/@project-serum/awesome-serum)
 
-A curated (unofficial) list of awesome things for people looking to buidl on Serum.
+A curated (unofficial) list of awesome things for people looking to build on Serum.
 Please submit a pull request if you know any resources that might be helpful to other developers!
 
 - [Blockchain](#blockchain)
