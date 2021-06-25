@@ -79,7 +79,7 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
 
 ## Tutorials and Projects
 
-- [Serum Academy](https://serum-academy.com)
+- [Serum Docs](https://docs.projectserum.com)
 - [Messaging App](https://github.com/kemargrant/soltalk) - Proof of Concept
 - [AMM](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) - Work-in-progress
 - On-chain Pools:
