@@ -170,6 +170,14 @@ Most of these projects are not open source. Use at your own risk.
 - [Swap](https://swap.projectserum.com/)
   - [code](https://github.com/project-serum/oyster-swap)
 
+### Realtime tracking bot
+
+- [Waterfallbot](https://t.me/CENTRALwaterfall): Multi-chain realtime tracking, already supported Solana
+  - [Serum waterfall](https://bit.ly/SRMwaterfall)
+  - [FTT waterfall](https://bit.ly/FTTwaterfall)
+  - [SUSHI waterfall](https://bit.ly/SUSHIwaterfall)
+  - [Raydium waterfall](https://bit.ly/RAYwaterfall)
+
 ## Popular Token Contracts
 
 - [Serum (SRM) SPL](https://explorer.solana.com/address/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt)
