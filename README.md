@@ -84,7 +84,7 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
 - [AMM](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) - Work-in-progress
 - On-chain Pools:
   - [A general preview](https://docs.google.com/document/d/1lmMZRKkxMFOtGOEZOFEKYL7syqv-4QT87F0o55fc35Y/edit)
-  - [Work in progress code](https://github.com/project-serum/serum-dex/tree/pool-wip/pool)
+  - [The Pool Protocol](https://github.com/project-serum/serum-dex/tree/master/pool)
 - [Bonfida](https://bonfida.com/):
   - [REST API](https://bonfida.com/blog/articles/serum-api) to get Serum market data
   - [GUI](https://github.com/dr497/serum-dex-ui)
