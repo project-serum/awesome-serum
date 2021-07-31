@@ -37,7 +37,7 @@ Please submit a pull request if you know any resources that might be helpful to 
 - [SolanaJ-Programs (Java)](https://github.com/skynetcapital/solanaj-programs)
 - [Solnet (C#/.NET)](https://github.com/bmresearch/Solnet)
 - [Solnet.Serum (C#/.NET)](https://github.com/bmresearch/Solnet.Serum)
-- [Progamming on Solana - An introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
+- [Progamming on Solana - An introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Solana Framework](https://github.com/project-serum/anchor)
 
 ### Serum
