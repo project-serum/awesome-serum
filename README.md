@@ -133,6 +133,9 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Solible](https://solible.com)
 
+#### Video Games
+- [Star Atlas Marketplace](https://play.staratlas.com/market)
+
 ### Wallets
 
 #### Web
