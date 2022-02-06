@@ -485,5 +485,12 @@
     "description": "",
     "icon": "",
     "tags": ["spl", "token", "mobile", "wallet", "ezdefi"]
+  },
+  {
+    "name": "Solana Playground",
+    "url": "https://sol-playground.com",
+    "description": "DeFi and Dex ,NFT ",
+    "icon": "",
+    "tags": ["spl", "token", "mobile", "wallet", "defi","nft"]
   }
 ]
