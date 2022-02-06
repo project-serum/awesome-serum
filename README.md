@@ -124,6 +124,7 @@ Most of these projects are not open source. Use at your own risk.
 - [YMAX DEX](https://ymax.finance/)
 - [SRMSwap](https://srmswap.com/) （中文版）
 - [Soleon DEX](https://soleon.io/)
+- [Solana Playground DEX](https://sol-playground.com/) （中英文版）
 
 ### Mobile GUIs
 
