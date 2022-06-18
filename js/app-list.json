@@ -485,5 +485,12 @@
     "description": "",
     "icon": "",
     "tags": ["spl", "token", "mobile", "wallet", "ezdefi"]
+  },
+  {
+    "name": "QANON",
+    "url": "https://qanonetwork.com",
+    "description": "Quantum Anonymous Blockchain Services Network",
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELo1g1ZxbYenka1dKgn9Hr4TWY7UZVw4iPb4BaYu64Ve/logo.svg",
+    "tags": ["QANON", "token", "Startup", "Businesstake", "sharestock"]
   }
 ]
