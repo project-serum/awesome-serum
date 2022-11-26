@@ -95,7 +95,7 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [Solong Minter](https://twitter.com/Solongwallet/status/1328520460456189952)
-- [SPL Manager](http://splmanager.com/)
+- [Skunka Tools](https://www.skunka-tools.xyz) - No-code SPL token Manager and much more to come. 
 
 ## Projects in Production
 
